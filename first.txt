@@ -1,1 +1,2 @@
 added new file first.txt in third demo on smart git
+updated first.txt in third demo on github
