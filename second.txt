@@ -1,1 +1,2 @@
 added new file second.txt on smartgit
+updated file second.txt on smartgit
